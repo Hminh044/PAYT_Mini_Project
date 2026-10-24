@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+numpy
+pandas
+matplotlib
+ddgs
+scikit-learn
+xgboost
+lightgbm

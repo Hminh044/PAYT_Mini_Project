@@ -1,0 +1,5 @@
+crawl_data.ipynb để crawl dữ liệu laptop từ web trungtran.
+project.ipynb là code của mini project dự đoán giá laptop.
+
+Dữ liệu laptop được lấy lúc 19/10/2026.
+Crawl lại data sẽ ghi đè lên file data cũ và gây ra 1 số lỗi index.
